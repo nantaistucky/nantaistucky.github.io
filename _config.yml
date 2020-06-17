@@ -1,6 +1,6 @@
 # Site settings
-title: nanttai' club # 博客名称
-description: "个人同人产出备份文库"
+title: nantai's club # 博客名称
+description: "个人同人产出备份"
 url:  "https://nantai.club" # 博客地址
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
@@ -28,7 +28,6 @@ logo: /assets/img/logo.jpg # 博客logo，此处引用了路径为“/assets/img
 social:
   links: # 其他链接
     - https://www.google.com
-    - https://www.github.com/cybergipsy2020
 
 webmaster_verifications:
   google: 
