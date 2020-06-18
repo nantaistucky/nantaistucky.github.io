@@ -1,6 +1,6 @@
 ---
-layout: nan太's club
-title: 关于我about
+title: 本站说明
+layout: post
 ---
 <div style="text-align:center;">
 	✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
