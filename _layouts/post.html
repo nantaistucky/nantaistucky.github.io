@@ -34,8 +34,13 @@
     {% if site.data.settings.disqus.disqus_shortname %}
       {% include disqus.html %}
     {% endif %}
+    
+    {% if site.gittalk.clientID and site.gittalk.clientSecret %}
+    {% include gitalk-comment.html %}
+    {% endif %}
+    
   </div>
-
+  
 {%- include footer.html -%}
 
 {% if site.data.settings.mathjax.active %}
