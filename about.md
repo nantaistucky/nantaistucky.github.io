@@ -5,7 +5,7 @@ layout: default
 ---  
 
 
-![stucky forever](assets/img/3.png "stucky forever")  
+![stucky forever](assets/img/bbb.jpg "stucky forever")  
 <div style="text-align:center;">
 	本站内容涉及盾冬桃包及衍生拉郎
 </div>
